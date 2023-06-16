@@ -1,12 +1,12 @@
 ---
-title: "【Next.js】「Firebase Analytics is not supported in this environment.」を解消する"
+title: "【Next.js】Firebase Analytics is not supported in this environment"
 emoji: "⚠️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Next.js", "Firebase", "Analytics"]
+topics: ["Next", "Firebase", "Analytics"]
 published: true
 ---
 
-# 【Next.js】「Firebase Analytics is not supported in this environment.」を解消する
+# 【Next.js】Firebase Analytics is not supported in this environment.
 
 ## Wrap initialization of analytics in analytics.isSupported()
 ```
