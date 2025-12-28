@@ -5,14 +5,14 @@
 
 
 ## 記事作成
-> $ npx zenn new:article
+> $ npx zenn-cli new:article
 
 
 ## preview
-> $ npx zenn preview 
+> $ npx zenn-cli preview 
 localhost:8000　で閲覧可能。
 
-> npx zenn preview --port 3000
+> npx zenn-cli preview --port 3000
 ポート指定が可能
 
 ## git add / commit / push
